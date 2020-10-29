@@ -1,0 +1,363 @@
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csprojAssemblyReference.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.AssemblyInfoInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.AssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.exe
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.deps.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.runtimeconfig.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.runtimeconfig.dev.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Redis.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Business.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Business.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.RazorTargetAssemblyInfo.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csproj.CopyComplete
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\staticwebassets\RestAPIwithAuth0.API.StaticWebAssets.Manifest.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\staticwebassets\RestAPIwithAuth0.API.StaticWebAssets.xml
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.genruntimeconfig.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.exe
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.deps.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.runtimeconfig.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.runtimeconfig.dev.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Redis.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Business.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Business.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csprojAssemblyReference.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.AssemblyInfoInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.AssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.RazorTargetAssemblyInfo.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csproj.CopyComplete
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\staticwebassets\RestAPIwithAuth0.API.StaticWebAssets.Manifest.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\staticwebassets\RestAPIwithAuth0.API.StaticWebAssets.xml
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.genruntimeconfig.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.exe
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.deps.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.runtimeconfig.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.runtimeconfig.dev.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.API.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Redis.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Business.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Business.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csprojAssemblyReference.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.AssemblyInfoInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.AssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.RazorTargetAssemblyInfo.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.csproj.CopyComplete
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\staticwebassets\RestAPIwithAuth0.API.StaticWebAssets.Manifest.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\staticwebassets\RestAPIwithAuth0.API.StaticWebAssets.xml
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.API\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.API.genruntimeconfig.cache

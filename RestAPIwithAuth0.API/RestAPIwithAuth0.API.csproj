@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>27e04e5a-095e-497e-af4c-8cbf7876d3e1</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+	  <PackageReference Include="Hangfire" Version="1.7.17" />
+	  <PackageReference Include="Hangfire.AspNetCore" Version="1.7.17" />
+	  <PackageReference Include="Hangfire.Core" Version="1.7.17" />
+	  <PackageReference Include="Hangfire.SqlServer" Version="1.7.17" />
+	  <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.5" />
+	  <PackageReference Include="MailKit" Version="2.7.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.1" />
+	  <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.1" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.1" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.3" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.1" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.1" />
+	  <PackageReference Include="AutoMapper" Version="9.0.0" />
+	  <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+	  <PackageReference Include="ServiceStack.Redis" Version="5.9.2" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
+	  <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+	  <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.NodeServices" Version="3.1.5" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.RazorPages" Version="2.2.5" />
+	  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.5.0" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <None Remove="..\.dockerignore" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\RestAPIwithAuth0.Business\RestAPIwithAuth0.Business.csproj" />
+    <ProjectReference Include="..\RestAPIwithAuth0.Data\RestAPIwithAuth0.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>

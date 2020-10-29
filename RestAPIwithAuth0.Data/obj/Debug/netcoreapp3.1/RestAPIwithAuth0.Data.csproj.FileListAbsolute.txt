@@ -1,0 +1,34 @@
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.AssemblyInfoInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.AssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.deps.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.runtimeconfig.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.runtimeconfig.dev.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0.API\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.genruntimeconfig.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.deps.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.runtimeconfig.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.runtimeconfig.dev.json
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.csprojAssemblyReference.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.AssemblyInfoInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.AssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPIwithAuth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.genruntimeconfig.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.deps.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.runtimeconfig.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.runtimeconfig.dev.json
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\bin\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.AssemblyInfoInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.AssemblyInfo.cs
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.dll
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.pdb
+C:\Users\DANIEL OGWU\Desktop\RestAPI and Auth0\RestAPIwithAuth0-with-JWT-Swagger-Auth0\RestAPIwithAuth0.Data\obj\Debug\netcoreapp3.1\RestAPIwithAuth0.Data.genruntimeconfig.cache
